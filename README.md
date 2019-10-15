@@ -2,7 +2,7 @@
 
 **Hold My Beer (HMB)** was developed as the first group project assignment for the University of Richmond Web Development Bootcamp (May - October 2019 cohort).
 
-https://dvavs.github.io/Firefoxes_Bootcamp_Proj1/
+https://dvavs.github.io/HoldMyBeer/
 
 
 ## The Who
